@@ -4,11 +4,11 @@
 
 At the end of this project, you are expected to be able to explain to anyone without help
 
-* What is a virtual machine
+* What is a virtual machine?
 
-* What is Vagrant
+* What is Vagrant?
 
-* Who wrote Vagrant
+* Who wrote Vagrant?
 
-* What is Ubuntu
+* What is Ubuntu?
 # zero_day
